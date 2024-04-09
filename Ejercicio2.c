@@ -10,6 +10,7 @@ int main (int argc, char const *argv [])
     num2 = num1 - 1;
     num3 = num2 * num2;
     printf("El numero elevado al cuadrado es: %i", num3);
+
     
     return 0;
 }
