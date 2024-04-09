@@ -22,10 +22,4 @@ int main (void)
     printf("Pagara un total de: %.2f\n", priceDiscount);
 
 
-
-
-
-
-
-
 }
