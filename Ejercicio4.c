@@ -17,6 +17,5 @@ int main(int argc, char const *argv[])
     printf("El segundo numero elevado al cuadrado es: %.2f\n", secondpower);
 
 
-
     return 0;
 }
