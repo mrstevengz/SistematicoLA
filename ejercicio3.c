@@ -6,5 +6,6 @@ int main(int argc, char const *argv[])
     printf("Dime tu nombre: ");
     scanf("%s", nombre );
     printf( "hola %s", nombre, 161);
+    
     return 0;
 }
